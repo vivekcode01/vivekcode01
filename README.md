@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekcode01
-- 👀 I’m interested in ...learnig 
+- 👀 I’m interested in ...tech
 - 🌱 I’m currently learning ...python and java
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...
