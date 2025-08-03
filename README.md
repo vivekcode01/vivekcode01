@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vivekcode01
-- 👀 I’m interested in ...tech
-- 🌱 I’m currently learning ...python and java
-- 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...
+Helloo there!
+How you doing all? 
+I am Full satck developer.
+I am proficient in C++ language.
+
+
 
 <!---
 vivekcode01/vivekcode01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
